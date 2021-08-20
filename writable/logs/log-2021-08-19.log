@@ -1,0 +1,437 @@
+ERROR - 2021-08-19 15:24:09 --> Error connecting to the database: Class 'SQLite3' not found
+ERROR - 2021-08-19 15:25:35 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: YES)
+ERROR - 2021-08-19 15:33:11 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: YES)
+CRITICAL - 2021-08-19 18:53:27 --> Class 'App\Controllers\IonAuth\Controllers\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(300): include_once()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(273): CodeIgniter\Autoloader\Autoloader->includeFile()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(247): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(885): class_exists()
+#6 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(421): CodeIgniter\CodeIgniter->startController()
+#7 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#10 {main}
+CRITICAL - 2021-08-19 18:54:31 --> Class 'App\Controllers\IonAuth\Controllers\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(300): include_once()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(273): CodeIgniter\Autoloader\Autoloader->includeFile()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(247): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(885): class_exists()
+#6 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(421): CodeIgniter\CodeIgniter->startController()
+#7 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#10 {main}
+CRITICAL - 2021-08-19 18:54:32 --> Class 'App\Controllers\IonAuth\Controllers\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(300): include_once()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(273): CodeIgniter\Autoloader\Autoloader->includeFile()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(247): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(885): class_exists()
+#6 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(421): CodeIgniter\CodeIgniter->startController()
+#7 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#10 {main}
+CRITICAL - 2021-08-19 18:54:32 --> Class 'App\Controllers\IonAuth\Controllers\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(300): include_once()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(273): CodeIgniter\Autoloader\Autoloader->includeFile()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(247): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(885): class_exists()
+#6 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(421): CodeIgniter\CodeIgniter->startController()
+#7 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#10 {main}
+CRITICAL - 2021-08-19 18:54:32 --> Class 'App\Controllers\IonAuth\Controllers\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(300): include_once()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(273): CodeIgniter\Autoloader\Autoloader->includeFile()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(247): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(885): class_exists()
+#6 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(421): CodeIgniter\CodeIgniter->startController()
+#7 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#10 {main}
+CRITICAL - 2021-08-19 18:54:33 --> Class 'App\Controllers\IonAuth\Controllers\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(300): include_once()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(273): CodeIgniter\Autoloader\Autoloader->includeFile()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(247): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(885): class_exists()
+#6 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(421): CodeIgniter\CodeIgniter->startController()
+#7 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#10 {main}
+CRITICAL - 2021-08-19 18:54:33 --> Class 'App\Controllers\IonAuth\Controllers\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(300): include_once()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(273): CodeIgniter\Autoloader\Autoloader->includeFile()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(247): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(885): class_exists()
+#6 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(421): CodeIgniter\CodeIgniter->startController()
+#7 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#10 {main}
+CRITICAL - 2021-08-19 18:54:33 --> Class 'App\Controllers\IonAuth\Controllers\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(300): include_once()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(273): CodeIgniter\Autoloader\Autoloader->includeFile()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(247): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(885): class_exists()
+#6 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(421): CodeIgniter\CodeIgniter->startController()
+#7 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#10 {main}
+CRITICAL - 2021-08-19 18:54:33 --> Class 'App\Controllers\IonAuth\Controllers\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(300): include_once()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(273): CodeIgniter\Autoloader\Autoloader->includeFile()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(247): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(885): class_exists()
+#6 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(421): CodeIgniter\CodeIgniter->startController()
+#7 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#10 {main}
+CRITICAL - 2021-08-19 19:00:22 --> Class 'App\Controllers\IonAuth\Controllers\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(300): include_once()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(273): CodeIgniter\Autoloader\Autoloader->includeFile()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(247): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(885): class_exists()
+#6 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(421): CodeIgniter\CodeIgniter->startController()
+#7 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#10 {main}
+CRITICAL - 2021-08-19 19:10:56 --> Class 'App\Controllers\IonAuth\Controllers\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(300): include_once()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(273): CodeIgniter\Autoloader\Autoloader->includeFile()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(247): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(885): class_exists()
+#6 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(421): CodeIgniter\CodeIgniter->startController()
+#7 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#10 {main}
+CRITICAL - 2021-08-19 19:11:01 --> Class 'App\Controllers\IonAuth\Controllers\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(300): include_once()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(273): CodeIgniter\Autoloader\Autoloader->includeFile()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(247): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(885): class_exists()
+#6 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(421): CodeIgniter\CodeIgniter->startController()
+#7 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#10 {main}
+CRITICAL - 2021-08-19 19:11:05 --> Class 'App\Controllers\IonAuth\Controllers\Auth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(300): include_once()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(273): CodeIgniter\Autoloader\Autoloader->includeFile()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(247): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(885): class_exists()
+#6 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(421): CodeIgniter\CodeIgniter->startController()
+#7 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#10 {main}
+CRITICAL - 2021-08-19 19:11:06 --> Class 'App\Controllers\IonAuth\Controllers\Auth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(300): include_once()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(273): CodeIgniter\Autoloader\Autoloader->includeFile()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(247): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(885): class_exists()
+#6 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(421): CodeIgniter\CodeIgniter->startController()
+#7 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#10 {main}
+CRITICAL - 2021-08-19 19:11:06 --> Class 'App\Controllers\IonAuth\Controllers\Auth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(300): include_once()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(273): CodeIgniter\Autoloader\Autoloader->includeFile()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(247): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(885): class_exists()
+#6 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(421): CodeIgniter\CodeIgniter->startController()
+#7 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#10 {main}
+CRITICAL - 2021-08-19 19:11:45 --> Class 'IonAuth\Controllers\Auth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(300): include_once()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(273): CodeIgniter\Autoloader\Autoloader->includeFile()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(247): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(885): class_exists()
+#6 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(421): CodeIgniter\CodeIgniter->startController()
+#7 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#10 {main}
+CRITICAL - 2021-08-19 19:11:46 --> Class 'IonAuth\Controllers\Auth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(300): include_once()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(273): CodeIgniter\Autoloader\Autoloader->includeFile()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(247): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(885): class_exists()
+#6 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(421): CodeIgniter\CodeIgniter->startController()
+#7 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#10 {main}
+CRITICAL - 2021-08-19 19:15:11 --> syntax error, unexpected '(', expecting variable (T_VARIABLE)
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(273): CodeIgniter\Autoloader\Autoloader->includeFile()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(247): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(885): class_exists()
+#5 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(421): CodeIgniter\CodeIgniter->startController()
+#6 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#9 {main}
+CRITICAL - 2021-08-19 19:15:15 --> syntax error, unexpected '(', expecting variable (T_VARIABLE)
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(273): CodeIgniter\Autoloader\Autoloader->includeFile()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(247): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(885): class_exists()
+#5 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(421): CodeIgniter\CodeIgniter->startController()
+#6 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#9 {main}
+CRITICAL - 2021-08-19 19:15:45 --> syntax error, unexpected '(', expecting variable (T_VARIABLE)
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(273): CodeIgniter\Autoloader\Autoloader->includeFile()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(247): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(885): class_exists()
+#5 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(421): CodeIgniter\CodeIgniter->startController()
+#6 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#9 {main}
+CRITICAL - 2021-08-19 19:17:24 --> Cannot declare class IonAuth\Controllers\Auth, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-08-19 19:20:44 --> Class 'IonAuth\Libraries\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(900): App\Controllers\Auth->__construct()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(426): CodeIgniter\CodeIgniter->createController()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#5 {main}
+CRITICAL - 2021-08-19 19:20:52 --> Class 'IonAuth\Libraries\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(900): App\Controllers\Auth->__construct()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(426): CodeIgniter\CodeIgniter->createController()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#5 {main}
+CRITICAL - 2021-08-19 19:21:24 --> Class 'IonAuth\Libraries\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(900): App\Controllers\Auth->__construct()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(426): CodeIgniter\CodeIgniter->createController()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#5 {main}
+CRITICAL - 2021-08-19 19:21:51 --> Class 'IonAuth\Libraries\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(900): App\Controllers\Auth->__construct()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(426): CodeIgniter\CodeIgniter->createController()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#5 {main}
+CRITICAL - 2021-08-19 19:22:30 --> Class 'Libraries\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(900): App\Controllers\Auth->__construct()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(426): CodeIgniter\CodeIgniter->createController()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#5 {main}
+CRITICAL - 2021-08-19 19:23:10 --> Class 'Libraries\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(900): App\Controllers\Auth->__construct()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(426): CodeIgniter\CodeIgniter->createController()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#5 {main}
+CRITICAL - 2021-08-19 19:23:11 --> Class 'Libraries\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(900): App\Controllers\Auth->__construct()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(426): CodeIgniter\CodeIgniter->createController()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#5 {main}
+CRITICAL - 2021-08-19 19:23:12 --> Class 'Libraries\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(900): App\Controllers\Auth->__construct()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(426): CodeIgniter\CodeIgniter->createController()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#5 {main}
+CRITICAL - 2021-08-19 19:23:19 --> Class 'App\Controllers\Libraries\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(900): App\Controllers\Auth->__construct()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(426): CodeIgniter\CodeIgniter->createController()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#5 {main}
+CRITICAL - 2021-08-19 19:23:27 --> Class 'Libraries\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(900): App\Controllers\Auth->__construct()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(426): CodeIgniter\CodeIgniter->createController()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#5 {main}
+CRITICAL - 2021-08-19 19:25:46 --> Class 'Libraries\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(900): App\Controllers\Auth->__construct()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(426): CodeIgniter\CodeIgniter->createController()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#5 {main}
+CRITICAL - 2021-08-19 19:25:46 --> Class 'Libraries\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(900): App\Controllers\Auth->__construct()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(426): CodeIgniter\CodeIgniter->createController()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#5 {main}
+CRITICAL - 2021-08-19 19:25:47 --> Class 'Libraries\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(900): App\Controllers\Auth->__construct()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(426): CodeIgniter\CodeIgniter->createController()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#5 {main}
+CRITICAL - 2021-08-19 19:25:47 --> Class 'Libraries\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(900): App\Controllers\Auth->__construct()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(426): CodeIgniter\CodeIgniter->createController()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#5 {main}
+CRITICAL - 2021-08-19 19:25:47 --> Class 'Libraries\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(900): App\Controllers\Auth->__construct()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(426): CodeIgniter\CodeIgniter->createController()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#5 {main}
+CRITICAL - 2021-08-19 19:25:59 --> Class 'Libraries\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(900): App\Controllers\Auth->__construct()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(426): CodeIgniter\CodeIgniter->createController()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#5 {main}
+CRITICAL - 2021-08-19 19:26:12 --> Class 'App\Controllers\App\Libraries\IonAuth' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(900): App\Controllers\Auth->__construct()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(426): CodeIgniter\CodeIgniter->createController()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#5 {main}
+CRITICAL - 2021-08-19 19:26:22 --> Cannot declare class Libraries\IonAuth, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-08-19 19:26:24 --> Cannot declare class Libraries\IonAuth, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-08-19 19:26:47 --> Cannot declare class IonAuth\Libraries\IonAuth, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-08-19 19:26:49 --> Cannot declare class IonAuth\Libraries\IonAuth, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-08-19 19:26:49 --> Cannot declare class IonAuth\Libraries\IonAuth, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-08-19 19:26:49 --> Cannot declare class IonAuth\Libraries\IonAuth, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-08-19 19:26:50 --> Cannot declare class IonAuth\Libraries\IonAuth, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-08-19 19:29:28 --> Cannot declare class IonAuth\Config\IonAuth, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-08-19 19:29:56 --> Class 'IonAuth\Models\IonAuthModel' not found
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/app/Controllers/Auth.php(73): App\Libraries\IonAuth->__construct()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(900): App\Controllers\Auth->__construct()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(426): CodeIgniter\CodeIgniter->createController()
+#3 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#6 {main}
+CRITICAL - 2021-08-19 19:30:28 --> Cannot declare class IonAuth\Models\IonAuthModel, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-08-19 19:30:29 --> Cannot declare class IonAuth\Models\IonAuthModel, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2021-08-19 19:37:47 --> Table 'codecrud.users' doesn't exist
+CRITICAL - 2021-08-19 19:37:47 --> Table 'codecrud.users' doesn't exist
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(329): mysqli->query()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Database/BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Database/BaseConnection.php(647): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query()
+#4 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/app/Models/IonAuthModel.php(892): CodeIgniter\Database\BaseBuilder->get()
+#5 [internal function]: App\Models\IonAuthModel->login()
+#6 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/app/Libraries/IonAuth.php(104): call_user_func_array()
+#7 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/app/Controllers/Auth.php(138): App\Libraries\IonAuth->__call()
+#8 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(928): App\Controllers\Auth->login()
+#9 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController()
+#10 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#12 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#13 {main}
+ERROR - 2021-08-19 19:38:17 --> Table 'users' already exists
+ERROR - 2021-08-19 19:38:59 --> Table 'users' already exists
+CRITICAL - 2021-08-19 19:41:19 --> Cannot declare class IonAuth\Database\Seeds\IonAuthSeeder, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-08-19 19:41:34 --> Cannot declare class Database\Seeds\IonAuthSeeder, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-08-19 19:43:11 --> Invalid file: IonAuth\Views\Messages\list.php
+#0 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/View/View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Common.php(1271): CodeIgniter\View\View->render()
+#2 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/app/Models/IonAuthModel.php(2400): view()
+#3 [internal function]: App\Models\IonAuthModel->messages()
+#4 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/app/Libraries/IonAuth.php(104): call_user_func_array()
+#5 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/app/Controllers/Auth.php(142): App\Libraries\IonAuth->__call()
+#6 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(928): App\Controllers\Auth->login()
+#7 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController()
+#8 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 /home/luizfmd/Área de Trabalho/CodeIgniter-Crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(45): require_once('/home/luizfmd/\xC3...')
+#11 {main}
